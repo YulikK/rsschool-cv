@@ -1,10 +1,8 @@
-<p align="center">
+<p align="left">
  <img width="200px" src="/img/avatar.png" alt="Yuliya Kursevich"/>
 </p>
 
-# Yukiya Kuursevich
-
----
+# Yukiya Kursevich
 
 ## Contact Information:
 
