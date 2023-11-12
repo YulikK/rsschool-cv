@@ -40,3 +40,38 @@ function firstNSmallest(array, n){
 - Feb 2016 - Feb 2017 **1C developer** Minsk, Belarus
 - Nov 2012 - Feb 2016 **1C developer** OOO "IT-Professional" Minsk, Belarus
 - Nov 2009 - Nov 2012 **Software Engineer** ODO "Gor" Minsk, Belarus
+
+## Education
+
+Oct 2022 - Dec 2022
+HTML Academy
+[React. Development of complex client applicationsReact](https://assets.htmlacademy.ru/certificates/intensive/117/1150911.pdf?1579195203 "certificate")
+[GitHub Project](https://github.com/YulikK/1150911-six-cities-simple-11 "link to GitHub Project")
+
+Jul 2020 - Sep 2020
+HTML Academy
+[JavaScript. Architecture of Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/169/1150911.pdf?1601120092 "certificate")
+[GitHub Project](https://github.com/YulikK/cinemaddict "link to GitHub Project")
+
+Jan 2020 - Mar 2020
+HTML Academy
+[Professional JavaScript, level 1](https://assets.htmlacademy.ru/certificates/intensive/123/1150911.pdf?1584341631 "certificate")
+[GitHub Project](https://github.com/YulikK/kekstagram "link to GitHub Project")
+
+Nov 2019 - Jan 2020
+HTML Academy
+[Professional HTML & CSS, level 2](https://assets.htmlacademy.ru/certificates/intensive/117/1150911.pdf?1579195203 "certificate")
+[GitHub Project](https://github.com/YulikK/cat-energy "link to GitHub Project")
+
+Sep 2019 - Nov 2019
+HTML Academy
+[Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/111/1150911.pdf?1571128870 "certificate")
+[GitHub Project](https://yulikk.github.io/Sedona "link to GitHub Project")
+
+Sep 2009 - Jun 2013
+Belarusian State University of Informatics and Radioelectronics
+Information technologies and management in technical systems
+
+Sep 2005 - Jun 2009
+Orsha College Educational Institution "P.M. Masherov Vitebsk State University"
+Information technology software
