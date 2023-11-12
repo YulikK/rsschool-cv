@@ -63,3 +63,9 @@ function firstNSmallest(array, n){
 |                    | Information technologies and management in technical systems|
 | Sep 2005 - Jun 2009| Orsha College Educational Institution "P.M. Masherov Vitebsk State University" |
 |                    | Information technology software|
+
+## Language
+
+- **English** - A2 (in progress)
+- **Polish** - A2 (in progress)
+- **Russian** - native
