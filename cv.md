@@ -1,4 +1,6 @@
-![avatar](/img/avatar.png "Yuliya Kursevich")
+<p align="center">
+ <img width="200px" src="/img/avatar.png" alt="Yuliya Kursevich"/>
+</p>
 
 # Yukiya Kuursevich
 
