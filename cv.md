@@ -42,19 +42,16 @@ function firstNSmallest(array, n){
 - Nov 2009 - Nov 2012 **Software Engineer** ODO "Gor" Minsk, Belarus
 
 ## Education
+| <!-- -->      | <!-- -->        |
+|:--------------|:----------------|
+| Oct 2022 - Dec 2022| HTML Academy |
+|                    | **React. Development of complex client applicationsReact**|
+|                    | [GitHub Project](https://github.com/YulikK/1150911-six-cities-simple-11 "link to GitHub Project")|
+| Jul 2020 - Sep 2020| HTML Academy |
+|                    | **[JavaScript. Architecture of Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/169/1150911.pdf?1601120092 "certificate")**|
+|                    | [GitHub Project](https://github.com/YulikK/cinemaddict "link to GitHub Project")|
 
-###### Oct 2022 - Dec 2022
-
-- HTML Academy
-- **React. Development of complex client applicationsReact**
-- [GitHub Project](https://github.com/YulikK/1150911-six-cities-simple-11 "link to GitHub Project")
-
-###### Jul 2020 - Sep 2020
-
-- HTML Academy
-- **[JavaScript. Architecture of Front-end Applications](https://assets.htmlacademy.ru/certificates/intensive/169/1150911.pdf?1601120092 "certificate")**
-- [GitHub Project](https://github.com/YulikK/cinemaddict "link to GitHub Project")
-
+ 
 ###### Jan 2020 - Mar 2020
 
 - HTML Academy
