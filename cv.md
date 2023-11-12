@@ -33,3 +33,10 @@ function firstNSmallest(array, n){
    return array
  }
 ```
+
+## Work Experience
+
+- Mar 2017 - Oct 2022 **1C developer** Frandesa Co., Ltd.
+- Feb 2016 - Feb 2017 **1C developer** Minsk, Belarus
+- Nov 2012 - Feb 2016 **1C developer** OOO "IT-Professional" Minsk, Belarus
+- Nov 2009 - Nov 2012 **Software Engineer** ODO "Gor" Minsk, Belarus
